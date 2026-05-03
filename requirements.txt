@@ -1,0 +1,6 @@
+torch
+transformers
+accelerate
+datasets
+sentencepiece
+huggingface_hub
